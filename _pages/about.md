@@ -24,6 +24,9 @@ redirect_from:
 * Recommender System
 * Blockchain
 * Design Science
+* Artificial Intelligence
+* Venture Capital
+* Healthcare Analytics
 
 ## Teaching Interests
 * Business Analytics
