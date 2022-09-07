@@ -251,6 +251,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-pdf-embed
+  - jekyll-redirect-from
 
 
 # Archives
