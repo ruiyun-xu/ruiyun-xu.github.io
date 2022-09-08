@@ -9,11 +9,10 @@ tags:
  - Teaching Assistant
 ---
 
-Role: Teaching Assistant\
+
+
+
 Semesters: 2015/16 Fall, 2016/17 Spring, 2017/18 Spring, and 2019/20 Fall\
-Medium of Instruction: Mandarin
-
-
 Tutorial 1: “Data Visualization for Corporate Management”\
 Tutorial 2: “Deep Learning and Business Analytics”
 

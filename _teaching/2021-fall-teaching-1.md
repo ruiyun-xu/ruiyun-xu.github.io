@@ -9,7 +9,6 @@ tags:
  - Instructor
 ---
 
-Role: __Instructor__\
 Semester: 2021/22 Fall\
 Evaluation Score: 5.53/6\
 Medium of Instruction: English

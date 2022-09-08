@@ -10,8 +10,22 @@ author_profile: true
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2> {{ tag }}</h2>
-  {% for post in posts %}
+  {% if tag == "Instructor" %}
+  <h2>Instructor</h2>
+  {% for post in posts reversed%}
     {% include archive-single.html %}
   {% endfor %}
+  
+  {% if tag == "Guest Lecturer" %}
+  <h2>Guest Lecturer</h2>
+  {% for post in posts reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+  
+  {% if tag == "Teaching Assistant" %}
+  <h2>Guest Lecturer</h2>
+  {% for post in posts reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+  
 {% endfor %}

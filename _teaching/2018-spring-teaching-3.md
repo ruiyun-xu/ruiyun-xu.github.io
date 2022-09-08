@@ -9,10 +9,9 @@ tags:
  - Guest Lecturer
 ---
 
-Role: Guest Lecturer\
-Semester: 2017/18 Spring\
-Medium of Instruction: English
 
+
+Semester: 2017/18 Spring\
 **Project: “RegTech for Anti-Money Laundering (AML) Compliance”**\
 Lecture 1: Natural Language Processing and Information Retrieval\
 **Project: “Data Science for Commercial Banking”**\
