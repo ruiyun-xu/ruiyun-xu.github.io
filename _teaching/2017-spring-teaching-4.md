@@ -5,6 +5,8 @@ type: "Graduate Course"
 permalink: /teaching/2017-spring-teaching-4
 venue: "City University of Hong Kong, College of Business"
 date: 2017-03-01
+tags:
+ - Teaching Assistant
 ---
 
 Role: Teaching Assistant\

@@ -5,6 +5,8 @@ type: "Undergraduate Course"
 permalink: /teaching/2018-spring-teaching-3
 venue: "City University of Hong Kong, Department of Informaiton Systems"
 date: 2018-03-01
+tags:
+ - Guest Lecturer
 ---
 
 Role: Guest Lecturer\
