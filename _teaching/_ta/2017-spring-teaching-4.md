@@ -2,7 +2,7 @@
 title: "EMBA Course: Business Models and Innovation in Big Data Era"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2017-spring-teaching-4
+permalink: /teaching/ta/2017-spring-teaching-4
 venue: "City University of Hong Kong, College of Business"
 date: 2017-03-01
 ---

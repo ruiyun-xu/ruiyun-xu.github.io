@@ -2,7 +2,7 @@
 title: "Undergraduate Capstone Project Course: FinTech Talent Training Program"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2018-spring-teaching-3
+permalink: /teaching/guestlecturer/2018-spring-teaching-3
 venue: "City University of Hong Kong, Department of Informaiton Systems"
 date: 2018-03-01
 ---

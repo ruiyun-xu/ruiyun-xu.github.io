@@ -2,7 +2,7 @@
 title: "Introduction to Artificial Intelligence"
 collection: teaching
 type: "IBA6001 Graduate Course"
-permalink: /teaching/2021-summer-teaching-2
+permalink: /teaching/instructor/2021-summer-teaching-2
 venue: "The Chinese University of Hong Kong (Shenzhen), School of Management and Economics"
 date: 2021-08-01
 ---
