@@ -9,19 +9,19 @@ author_profile: true
 {% include group-by-array collection=site.teaching field="tags" %}
 
 {% assign posts1 = group_items[1] %}
-<h2>{{group_names[1]}}</h2>
+<h2>1. {{group_names[1]}}</h2>
 {% for post in posts1 reversed%}
 	{% include archive-single.html %}
 {% endfor %}
 
 {% assign posts0 = group_items[0] %}
-<h2>{{group_names[0]}}</h2>
+<h2>2. {{group_names[0]}}</h2>
 {% for post in posts0 reversed%}
 	{% include archive-single.html %}
 {% endfor %}
   
 {% assign posts2 = group_items[2] %}
-<h2>{{group_names[2]}}</h2>
+<h2>3. {{group_names[2]}}</h2>
 {% for post in posts2 reversed%}
 	{% include archive-single.html %}
 {% endfor %}
