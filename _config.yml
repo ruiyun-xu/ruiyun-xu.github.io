@@ -184,7 +184,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-
+  google64ab606cd160f568:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _pages
@@ -251,8 +253,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-pdf-embed
-  - jekyll-redirect-from
 
 
 # Archives
