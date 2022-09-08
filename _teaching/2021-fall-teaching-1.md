@@ -2,7 +2,7 @@
 title: "Programing for Business and Economics"
 collection: teaching
 type: "IBA6104 Graduate Course (core)"
-permalink: /teaching/instructor/2021-fall-teaching-1
+permalink: /teaching/2021-fall-teaching-1
 venue: "The Chinese University of Hong Kong (Shenzhen), School of Management and Economics"
 date: 2021-09-01
 ---
