@@ -8,7 +8,7 @@ author_profile: true
 ## Managing Editor
 * Special Issue on Blockchain Technology and Applications of Decision Support Systems Journal, 2022
 
-## Conference Associate Editor:
+## Conference Associate Editor
 * Pacific Asia Conference on Information Systems (PACIS) 2022: Mobile, IoT, and Ubiquitous Computing
 
 ## Journal Reviewer
