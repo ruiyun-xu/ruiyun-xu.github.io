@@ -8,27 +8,23 @@ author_profile: true
 {% include base_path %}
 {% include group-by-array collection=site.teaching field="tags" %}
 
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  {% if tag == "Instructor" %}
-	  <h2>Instructor</h2>
-	  {% for post in posts reversed%}
-		{% include archive-single.html %}
-	  {% endfor %}
-  {% endif %}
-  
-  {% if tag == "Guest Lecturer" %}
-	  <h2>Guest Lecturer</h2>
-	  {% for post in posts reversed %}
-		{% include archive-single.html %}
-	  {% endfor %}
-  {% endif %}
-  
-  {% if tag == "Teaching Assistant" %}
-	  <h2>Teaching Assistant</h2>
-	  {% for post in posts reversed %}
-		{% include archive-single.html %}
-	  {% endfor %}
-  {% endif %}
-  
+{% assign posts1 = group_items[1] %}
+<h2>{{group_names[1]}}</h2>
+{% for post in posts1 reversed%}
+	{% include archive-single.html %}
 {% endfor %}
+
+{% assign posts0 = group_items[0] %}
+<h2>{{group_names[0]}}</h2>
+{% for post in posts0 reversed%}
+	{% include archive-single.html %}
+{% endfor %}
+  
+{% assign posts2 = group_items[2] %}
+<h2>{{group_names[2]}}</h2>
+{% for post in posts2 reversed%}
+	{% include archive-single.html %}
+{% endfor %}
+
+
+
