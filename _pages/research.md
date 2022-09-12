@@ -20,8 +20,9 @@ author_profile: true
 
 ## Working Papers
 * A Unified Measure of Social Proximity based on Graph Embedding for Organizational Studies (with Hailiang Chen and J. Leon Zhao).
-* Search by Example: A Paradigm for Improving Search Productivity of Knowledge Workers (with Hailiang Chen and J. Leon Zhao).
 * Examining the Dynamics of Blockchain Systems on Healthcare Fraud Deterrence (with Manuele Reani and J. Leon Zhao).
+* Search by Example: A Paradigm for Improving Search Productivity of Knowledge Workers (with Hailiang Chen and J. Leon Zhao).
+* Blockchain Adoption under Uncertainty (with Wenping Zhang, Qiqi Jiang, and Lele Kang).
 * Cross-chain Blockchain Networks: The Case of Non-Fungible Tokens (with Zhanbo Wang and J. Leon Zhao).
 
 ## Conference Proceedings
