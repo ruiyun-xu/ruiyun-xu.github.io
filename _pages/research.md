@@ -8,22 +8,12 @@ author_profile: true
 ## Journal Publication
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2022. SocioLink: Leveraging Relational Information in Knowledge Graphs for Startup Recommendations (accepted by *Journal of Management Information Systems*, FT-50).
 
-## Manuscript Under Review
-* Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Under 1<sup>st</sup> round review at *Strategic Entrepreneurship Journal*, FT-50).
-
 ## Patents
 * Zhao, J. Leon, Hailiang Chen, __Ruiyun Xu__.  “Searching Electronic Documents Based on Example-based Search Query”, 2022. (US 11,386,164 B2, active). U.S. Patent and Trademark Office.
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2020. System and Method for Conducting a Textual Data Search (US 10,747,759 B2, active). U.S. Patent and Trademark Office.
 
 ## Invited Book Chapter
 * Zhang, Wenping, __Ruiyun Xu__, J. Leon Zhao, Qiqi Jiang. 2021. A Blockchain-Centric Data Sharing Framework for Building Trust in Healthcare Insurance. *Blockchain in Healthcare: Analysis, Design, and Implementation*. 
-
-## Working Papers
-* A Unified Measure of Social Proximity based on Graph Embedding for Organizational Studies (with Hailiang Chen and J. Leon Zhao).
-* Examining the Dynamics of Blockchain Systems on Healthcare Fraud Deterrence (with Manuele Reani and J. Leon Zhao).
-* Search by Example: A Paradigm for Improving Search Productivity of Knowledge Workers (with Hailiang Chen and J. Leon Zhao).
-* Blockchain Adoption under Uncertainty (with Wenping Zhang, Qiqi Jiang, and Lele Kang).
-* Cross-chain Blockchain Networks: The Case of Non-Fungible Tokens (with Zhanbo Wang and J. Leon Zhao).
 
 ## Conference Proceedings
 * __Xu, Ruiyun__, Zhanbo Wang, and J. Leon Zhao. 2022. A Novel Blockchain-Driven Framework for Deterring Fraud in Supply Chain Finance, *The 2022 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC)*.
