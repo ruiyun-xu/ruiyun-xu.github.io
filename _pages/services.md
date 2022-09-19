@@ -26,15 +26,11 @@ author_profile: true
 * Pacific Asia Conference on Information Systems (PACIS): 2015-2022
 * China Summer Workshop on Information Systems (CSWIM): 2018
 
-## Conference Coordinator/Session Chair
-* International Conference on Smart Finance 2022, August 20-21, Hong Kong, China
+## Conference Coordinator
 * International Conference on Smart Finance 2021, August 20-21, Shenzhen, China
 
 ## Webmaster
-* Center on Global Internet Finance, City University of Hong Kong
-* Conference website: International Conference on Smart Finance 2018-2022; Symposium on Blockchain Technology and Application 2019
-
-
+* Conference website: International Conference on Smart Finance 2018-2021
 
 
 

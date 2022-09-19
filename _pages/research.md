@@ -18,12 +18,11 @@ author_profile: true
 ## Conference Proceedings
 * __Xu, Ruiyun__, Zhanbo Wang, and J. Leon Zhao. 2022. A Novel Blockchain-Driven Framework for Deterring Fraud in Supply Chain Finance, *The 2022 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC)*.
 * Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. *The 82nd Annual Meeting of the Academy of Management (AOM)*.
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2021. Leveraging Relation Information for Venture Recommendations in Two-sided Matching. *Symposium on Statistical Challenges in Electronic Commerce Research (SCECR)*
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2020. Measuring Social Proximity via Knowledge Graph Embedding. *International Conference on Information Systems (ICIS)* (28% acceptance rate), Hyderabad, India.
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2018. smartCVC: A Novel Startup Selection Method for Corporate Venture Capital. *International Conference on Information Systems (ICIS)* (26.1% acceptance rate), San Francisco, CA.
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2020. Measuring Social Proximity via Knowledge Graph Embedding. *International Conference on Information Systems (ICIS)*, Hyderabad, India.
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2018. smartCVC: A Novel Startup Selection Method for Corporate Venture Capital. *International Conference on Information Systems (ICIS)*, San Francisco, CA.
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao 2018. smartCVC: Data Science Meets Corporate Venture Capital. *Americas Conference on Information Systems (AMCIS)*, New Orleans, LA, USA.
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2017. Predicting Corporate Venture Capital Investment. *International Conference on Information Systems (ICIS)* (28% acceptance rate), Seoul, South Korea. 
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2017. A Fast and Comprehensive Literature Search Tool for Information Systems Researchers. *International Conference on Information Systems (ICIS)* (28% acceptance rate), Seoul, South Korea.
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2017. Predicting Corporate Venture Capital Investment. *International Conference on Information Systems (ICIS)*, Seoul, South Korea. 
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2017. A Fast and Comprehensive Literature Search Tool for Information Systems Researchers. *International Conference on Information Systems (ICIS)*, Seoul, South Korea.
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2016. Topic Associations in Document Models for Ad Hoc Information Retrieval. *Pacific Asia Conference on Information Systems (PACIS)*, Chiayi, Taiwan.
 
 
