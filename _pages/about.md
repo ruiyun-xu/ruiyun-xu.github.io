@@ -22,9 +22,9 @@ redirect_from:
 ## Research Interests
 * FinTech
 * Recommender System
+* Artificial Intelligence
 * Blockchain
 * Design Science
-* Artificial Intelligence
 * Venture Capital
 * Healthcare Analytics
 
@@ -32,6 +32,9 @@ redirect_from:
 * Business Analytics
 * Programming
 * Artificial Intelligence
+* Machine Learning
 * Data Science
-* Blockchain
+* Data Visualization
+* Database Design and Management
+* Management Information Systems
 
