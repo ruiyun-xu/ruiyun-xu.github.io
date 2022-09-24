@@ -30,6 +30,7 @@ redirect_from:
 
 ## Teaching Interests
 * Business Analytics
+* FinTech
 * Programming
 * Artificial Intelligence
 * Machine Learning
