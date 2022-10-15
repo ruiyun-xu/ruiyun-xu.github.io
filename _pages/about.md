@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an international postdoctoral fellow at the Chinese University of Hong Kong, Shenzhen. I am now living with my family in the US and work remotely.
+Welcome! I am currently an international postdoctoral fellow at the Chinese University of Hong Kong, Shenzhen. I am now living with my family in the US and work remotely.
 I am actively looking for an assistant professor position in information systems related areas. I will be attending INFORMS, CIST, and ICIS in person this year. 
 
 I will be presenting in *Session TB75. Empirical Research on Blockchain and FinTech* in INFORMS, which is scheduled from 11:00 am to 12:15 pm on October 18 at M-Illinois.
