@@ -11,7 +11,7 @@ author_profile: true
 ## Selected Working Papers
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. A Unified Measure of Social Proximity based on Graph Embedding for Organizational Studies (under final preparation for submission to *Management Science*, UTD-24).
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. Search by Example: A Paradigm for Improving Search Productivity of Knowledge Workers (under final preparation for submission to *ACM TMIS*).
-* Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Revise and Resubmit at *Strategic Entrepreneurship Journal*, FT-50).
+* Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (in preparation for second-round review (__major revision__) at *Strategic Entrepreneurship Journal*, FT-50).
 * __Xu, Ruiyun__, Manuele Reani, Wenping Zhang, J. Leon Zhao. Examining the Dynamics of Blockchain Systems on Fraud Deterrence in Healthcare Insurance (target: *MIS Quarterly*, UTD-24).
 
 ## Patents
