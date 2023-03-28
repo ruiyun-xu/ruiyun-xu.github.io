@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Publications
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2022. SocioLink: Leveraging Relational Information in Knowledge Graphs for Startup Recommendations (forthcoming at *Journal of Management Information Systems*). [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147)
-* Fan, Shaokun, Noyan Ilk, Akhil Kumar, __Ruiyun Xu__, J. Leon Zhao. 2022. From File Processing to Blockchain Networking: A Recount and Projection of Information Systems Research. *Quarterly Journal of Economics and Management*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433)
+* Fan, Shaokun, Noyan Ilk, Akhil Kumar, __Ruiyun Xu__, J. Leon Zhao. 2022. From File Processing to Blockchain Networking: A Recount and Projection of Information Systems Research. *Quarterly Journal of Economics and Management*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433)
 
 ## Patents
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=11386164&OS=11386164&RS=11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
