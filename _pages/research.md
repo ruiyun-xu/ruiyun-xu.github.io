@@ -10,13 +10,14 @@ author_profile: true
 * Fan, Shaokun, Noyan Ilk, Akhil Kumar, __Ruiyun Xu__, J. Leon Zhao. 2022. From File Processing to Blockchain Networking: A Recount and Projection of Information Systems Research. *Quarterly Journal of Economics and Management*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433)
 
 ## Patents
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=11386164&OS=11386164&RS=11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
-* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. "System and Method for Conducting a Textual Data Search", 2017. (U.S. Patent No. [10747759](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10747759.PN.&OS=PN/10747759&RS=PN/10747759); Filing Number 15/631,077). U.S. Patent and Trademark Office. August 18, 2020.
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
+* __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. "System and Method for Conducting a Textual Data Search", 2017. (U.S. Patent No. [10747759](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10747759); Filing Number 15/631,077). U.S. Patent and Trademark Office. August 18, 2020.
 
-## Invited Book Chapter
-* Zhang, Wenping, __Ruiyun Xu__, J. Leon Zhao, Qiqi Jiang. 2021. A Blockchain-Centric Data Sharing Framework for Building Trust in Healthcare Insurance. *Blockchain in Healthcare: Analysis, Design, and Implementation*. 
+##Book Chapter
+* Zhang, Wenping, __Ruiyun Xu__, J. Leon Zhao, Qiqi Jiang. 2021. A Blockchain-Centric Data Sharing Framework for Building Trust in Healthcare Insurance. *Blockchain in Healthcare: Analysis, Design, and Implementation*.
 
 ## Conference Proceedings
+* Li, Litao, __Ruiyun Xu__, J. Leon Zhao. 2023. Metaverse Knowledge Graph Construction: An Unsupervised Relation Extraction Approach based on Semantic Mining. *Americas Conference on Information Systems (AMCIS)*.
 * __Xu, Ruiyun__, Zhanbo Wang, and J. Leon Zhao. 2022. A Novel Blockchain-Driven Framework for Deterring Fraud in Supply Chain Finance, *The 2022 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC)*.
 * Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. *The 82nd Annual Meeting of the Academy of Management (AOM)*.
 * __Xu, Ruiyun__, Hailiang Chen, J. Leon Zhao. 2020. Measuring Social Proximity via Knowledge Graph Embedding. *International Conference on Information Systems (ICIS)*, Hyderabad, India.
