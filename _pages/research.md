@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-* __Ruiyun Xu__, Hailiang Chen, J. Leon Zhao. 2022. SocioLink: Leveraging Relational Information in Knowledge Graphs for Startup Recommendations (forthcoming at *Journal of Management Information Systems*). [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147)
+* __Ruiyun Xu__, Hailiang Chen, J. Leon Zhao. 2023. SocioLink: Leveraging Relational Information in Knowledge Graphs for Startup Recommendations (forthcoming at *Journal of Management Information Systems*). [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217147)
 * Shaokun Fan, Noyan Ilk, Akhil Kumar, __Ruiyun Xu__, J. Leon Zhao. 2022. From File Processing to Blockchain Networking: A Recount and Projection of Information Systems Research. *Quarterly Journal of Economics and Management*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433)
 
 ## Patents
