@@ -10,7 +10,7 @@ author_profile: true
 * Shaokun Fan, Noyan Ilk, Akhil Kumar, __Ruiyun Xu__, J. Leon Zhao. 2022. From File Processing to Blockchain Networking: A Recount and Projection of Information Systems Research. *Quarterly Journal of Economics and Management*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392433)
 
 ## Patents
-* J. Leon Zhao, Hailiang Chen, __Ruiyun Xu__. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
+* __Ruiyun Xu__, Hailiang Chen, J. Leon Zhao. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
 * __Ruiyun Xu__, Hailiang Chen, J. Leon Zhao. "System and Method for Conducting a Textual Data Search", 2017. (U.S. Patent No. [10747759](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10747759); Filing Number 15/631,077). U.S. Patent and Trademark Office. August 18, 2020.
 
 ## Book Chapter
