@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website! I am currently a postdoctoral fellow at the Chinese University of Hong Kong, Shenzhen. I will be joining the Department of Information Systems and Analytics in the Farmer School of Business at Miami University as an assistant professor this August. 
+Welcome to my personal website! I am an Assistant Professor in the Department of Information Systems and Analytics at the Farmer School of Business, Miami University.
 
-I am interested in the research areas of financial technology, artificial intelligence, design science, venture capital, blockchain, and healthcare analytics.
+My research interests span various exciting areas including financial technology, artificial intelligence, design science, venture capital, information retrieval, and blockchain.
 
 ## Employment
-* 2021-present: International Postdoctoral Fellow, *Chinese University of Hong Kong, Shenzhen*
+* 2023-present: Assistant Professor, *Miami University*
+* 2021-2023: International Postdoctoral Fellow, *Chinese University of Hong Kong, Shenzhen*
 * 2020-2021: Senior Research Assistant, *University of Hong Kong*
 
 ## Education

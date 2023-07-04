@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruiyun Xu (Rayna)"
   avatar           : "ruiyunxu_pic.jpg"
-  bio              : "International Postdoctoral Fellow"
+  bio              : "Assistant Professor in Information Systems and Analytics"
   location         : #"Location"
-  employer         : #"The Chinese University of Hong Kong (Shenzhen)"
+  employer         : #"Miami University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UjSyU08AAAAJ&hl=en"
-  email            : "ruiyunxu@cuhk.edu.cn"
+  email            : "xur29@miamioh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
