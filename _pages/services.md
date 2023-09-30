@@ -13,10 +13,11 @@ author_profile: true
 * Pacific Asia Conference on Information Systems (PACIS) 2022: Mobile, IoT, and Ubiquitous Computing
 
 ## Journal Reviewer
-* ACM Transactions on Management Information Systems (TMIS)
-* Electronic Commerce Research (ECR)
-* Information Systems Frontiers (ISF)
+* Journal of Operations Management (JOM)
 * Post-ICIS MIS Quarterly Reviewer Development Workshop
+* ACM Transactions on Management Information Systems (TMIS)
+* Information & Management (I&M)
+* Electronic Commerce Research (ECR)
 
 ## Conference Reviewer
 * Americas Conference on Information Systems (AMCIS)
