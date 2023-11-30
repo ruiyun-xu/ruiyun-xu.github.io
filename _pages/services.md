@@ -5,6 +5,9 @@ permalink: /services/
 author_profile: true
 ---
 
+## Associate Editor
+* Decision Support Systems (DSS)
+
 ## Managing Editor
 * Special Issue on Blockchain Technology and Applications of Decision Support Systems Journal, 2022
 
