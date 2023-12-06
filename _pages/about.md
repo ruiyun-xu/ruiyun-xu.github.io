@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website! I am an Assistant Professor in the Department of Information Systems and Analytics at the Farmer School of Business, Miami University.
+Welcome to my personal website! My name is Ruiyun Xu (Rayna) [徐睿沄]. I am an Assistant Professor in the Department of Information Systems and Analytics at the Farmer School of Business, Miami University.
 
 My research interests span various exciting areas including financial technology, artificial intelligence, design science, venture capital, information retrieval, and blockchain.
 
