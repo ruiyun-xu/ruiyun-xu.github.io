@@ -9,9 +9,8 @@ tags:
  - Instructor
 ---
 
-Semester: 2021 Summer\
-Evaluation Score: 5.89/6\
-Medium of Instruction: English
+Semester: 2021 Summer
+
 
 This course strikes a balance between technical details and managerial discussions about AI. The course not only provides a broad introduction to expert system, machine learning, natural language processing, computer vision and robotics, but also discusses about issues, concerns and Ethical considerations in AI as well as enterprise AI strategy. Topics include: (i) AI definition, history, and the state of the art. (ii) Expert system in AI. (iii) Machine learning (supervised learning and unsupervised learning). (iv) Natural language processing. (v) Computer vision and robotics. (vi) Enterprise AI strategy. (vii) Big data.
 

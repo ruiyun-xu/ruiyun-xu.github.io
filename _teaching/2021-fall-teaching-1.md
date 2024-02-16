@@ -9,9 +9,8 @@ tags:
  - Instructor
 ---
 
-Semester: 2021/22 Fall\
-Evaluation Score: 5.53/6\
-Medium of Instruction: English
+Semester: 2021/22 Fall
+
 
 This course introduces students to a set of programming tools and software for data collection, data processing, analysis and visualization in business and economics. The course mainly covers python, which is now the number one programming language for data analysis. Due to python’s simplicity and high readability, it is widely used in business of many areas such as the financial industry. Other commonly used coding languages such as R and Matlab are also briefly introduced. 
 
