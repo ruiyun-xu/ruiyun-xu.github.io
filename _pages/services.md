@@ -16,6 +16,7 @@ author_profile: true
 * Pacific Asia Conference on Information Systems (PACIS) 2022: Mobile, IoT, and Ubiquitous Computing
 
 ## Journal Reviewer
+* MIS Quarterly (MISQ)
 * Journal of Operations Management (JOM)
 * Post-ICIS MIS Quarterly Reviewer Development Workshop
 * ACM Transactions on Management Information Systems (TMIS)
