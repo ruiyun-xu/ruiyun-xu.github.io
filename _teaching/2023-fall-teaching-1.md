@@ -9,7 +9,7 @@ tags:
  - Instructor
 ---
 
-Semesters: 2023-24 Fall, Spring
+Semesters: 2023-24 Fall, Spring; 2024-2025 Fall
 
 
 The goal of this course is to provide the students with a comprehensive introduction to the programming tools and skills required to build and maintain business applications.
