@@ -18,7 +18,6 @@ author_profile: true
 ## Journal Reviewer
 * MIS Quarterly (MISQ)
 * Journal of Operations Management (JOM)
-* Post-ICIS MIS Quarterly Reviewer Development Workshop
 * ACM Transactions on Management Information Systems (TMIS)
 * Information & Management (I&M)
 * Electronic Commerce Research (ECR)
