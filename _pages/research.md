@@ -17,7 +17,7 @@ author_profile: true
 ## Conference Proceedings
 * Litao Li, Ruiyun Xu, J. Leon Zhao. 2023. Metaverse Knowledge Graph Construction: An Unsupervised Relation Extraction Approach based on Semantic Mining. *Americas Conference on Information Systems (AMCIS)*.
 * Ruiyun Xu, Zhanbo Wang, and J. Leon Zhao. 2022. A Novel Blockchain-Driven Framework for Deterring Fraud in Supply Chain Finance, *The 2022 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC)*.
-* Mu, Wen, Jiang Xu, __Ruiyun Xu__. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. *The 82nd Annual Meeting of the Academy of Management (AOM)*.
+* Mu, Wen, Jiang Xu, Ruiyun Xu. 2022. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. *The 82nd Annual Meeting of the Academy of Management (AOM)*.
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. 2020. Measuring Social Proximity via Knowledge Graph Embedding. *International Conference on Information Systems (ICIS)*, Hyderabad, India.
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. 2018. smartCVC: A Novel Startup Selection Method for Corporate Venture Capital. *International Conference on Information Systems (ICIS)*, San Francisco, CA.
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. 2017. Predicting Corporate Venture Capital Investment. *International Conference on Information Systems (ICIS)*, Seoul, South Korea. 
