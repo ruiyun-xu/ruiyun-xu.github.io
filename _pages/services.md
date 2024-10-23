@@ -18,9 +18,7 @@ author_profile: true
 ## Journal Reviewer
 * MIS Quarterly (MISQ)
 * Journal of Operations Management (JOM)
-* ACM Transactions on Management Information Systems (TMIS)
 * Information & Management (I&M)
-* Electronic Commerce Research (ECR)
 
 ## Conference Reviewer
 * Americas Conference on Information Systems (AMCIS)
