@@ -15,7 +15,7 @@ author_profile: true
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. "System and Method for Conducting a Textual Data Search", 2017. (U.S. Patent No. [10747759](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10747759); Filing Number 15/631,077). U.S. Patent and Trademark Office. August 18, 2020.
 
 ## Manuscripts Under Review
-* Xu, R., Feng, Y., Chen, H., Karahanna, E. ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience. (Under review at *Management Science*c)
+* Xu, R., Feng, Y., Chen, H., Karahanna, E. ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience. (Under review at *Management Science*)
 * Mu, W., Jiang, X. Xu, R. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Under review at *Strategic Entrepreneurship Journal*, Major Revision).
 * Du, W., Huang Q., Xu, R. Follow the Vine to Get the Melon: A Novel Multi-Faceted Deep Framework for Blockchain Phishing Fraud Detection. (Under review at *Decision Support Systems*, Major Revision)
 * Liang, S., Zhang, X., Xu, R., Li, Z., Guo, Z. Ethical Dilemmas in Service Provision: Exploring the Impact of Regional Discrimination on Sharing Economy Platforms. (Under review at *Journal of the Association for Information Systems*) 
