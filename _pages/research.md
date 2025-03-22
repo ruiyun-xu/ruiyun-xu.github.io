@@ -16,7 +16,7 @@ author_profile: true
 
 ## Manuscripts Under Review
 * Xu, R., Feng, Y., Chen, H., Karahanna, E. ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience. (Under review at *Management Science*)
-* Mu, W., Jiang, X. Xu, R. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Under review at *Strategic Entrepreneurship Journal*, Major Revision).
+* Mu, W., Jiang, X. Xu, R. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Under review at *Strategic Entrepreneurship Journal*, Minor Revision).
 * Du, W., Huang Q., Xu, R. Follow the Vine to Get the Melon: A Novel Multi-Faceted Deep Framework for Blockchain Phishing Fraud Detection. (Under review at *Decision Support Systems*, Major Revision)
 * Liang, S., Zhang, X., Xu, R., Li, Z., Guo, Z. Ethical Dilemmas in Service Provision: Exploring the Impact of Regional Discrimination on Sharing Economy Platforms. (Under review at *Journal of the Association for Information Systems*) 
 
