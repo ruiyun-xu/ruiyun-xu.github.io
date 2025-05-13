@@ -19,3 +19,6 @@ My research interests span various exciting areas including financial technology
 ## Education
 * Ph.D. in Information Systems, *City University of Hong Kong*, 2020
 * B.S. in Computer Science, *Beijing Foreign Studies University*, 2014
+
+## Honors & Awards
+* Jack and Pat Gifford Junior Faculty Teaching Innovation Award

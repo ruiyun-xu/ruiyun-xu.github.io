@@ -18,6 +18,7 @@ author_profile: true
 ## Journal Reviewer
 * MIS Quarterly (MISQ)
 * Journal of Operations Management (JOM)
+* Production and Operations Management (POM)
 * Information & Management (I&M)
 
 ## Conference Reviewer
