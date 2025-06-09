@@ -12,9 +12,3 @@ author_profile: true
 ## Patents
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. "Searching Electronic Documents Based on Example-based Search Query", 2020. (U.S. Patent No. [11386164](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11386164); Filing Number 15/930,647). U.S. Patent and Trademark Office. July 12, 2022.
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. "System and Method for Conducting a Textual Data Search", 2017. (U.S. Patent No. [10747759](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10747759); Filing Number 15/631,077). U.S. Patent and Trademark Office. August 18, 2020.
-
-## Manuscripts Under Review
-* Xu, R., Feng, Y., Chen, H., Karahanna, E. ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience. (Under revision for resubmission to *Management Science*)
-* Mu, W., Jiang, X. Xu, R. Legitimation through Optimal Distinctiveness: Business Proximity and Legitimacy Attainment in Emerging-Technology Start-ups. (Under review at *Strategic Entrepreneurship Journal*, Minor Revision).
-* Du, W., Huang Q., Xu, R. Follow the Vine to Get the Melon: A Novel Multi-Faceted Deep Framework for Blockchain Phishing Fraud Detection. (Under review at *Decision Support Systems*, Major Revision)
-
