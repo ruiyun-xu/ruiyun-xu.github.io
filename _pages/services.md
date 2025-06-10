@@ -12,6 +12,7 @@ author_profile: true
 * Special Issue on Blockchain Technology and Applications of Decision Support Systems Journal, 2022
 
 ## Conference Associate Editor / Session Chair
+* Informs Annual Meeting 2025: AI Applications and Ethical Implications
 * Informs Annual Meeting 2023: Artificial Intelligence in FinTech
 * Pacific Asia Conference on Information Systems (PACIS) 2022: Mobile, IoT, and Ubiquitous Computing
 
@@ -20,6 +21,8 @@ author_profile: true
 * Journal of Operations Management (JOM)
 * Production and Operations Management (POM)
 * Information & Management (I&M)
+* European Journal of Information Systems (EJIS)
+* ACM Transactions on Management Information Systems (TMIS)
 
 ## Conference Reviewer
 * Americas Conference on Information Systems (AMCIS)
