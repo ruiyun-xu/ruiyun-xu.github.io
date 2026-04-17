@@ -11,8 +11,8 @@ author_profile: true
 * Ruiyun Xu, Hailiang Chen, J. Leon Zhao. 2023. SocioLink: Leveraging Relational Information in Knowledge Graphs for Startup Recommendations. *Journal of Management Information Systems*, 40(2), 655-682. [Link to Paper](https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2196771)
 
 ## Working Papers
-* Paradigm Shift in Search: How Does Generative Artificial Intelligence Reshape Search Performance and Behavior? Under Review
-* Text, but Beyond Text: Exploring the Added Predictive Value of LLM-Augmented Semantics for Crowdfunding Outcomes. Under Review
+* Paradigm Shift in Search: How Does Generative Artificial Intelligence Reshape Search Performance and Behavior? Under Revision
+* Text, but Beyond Text: Exploring the Added Predictive Value of LLM-Augmented Semantics for Crowdfunding Outcomes. Under Revision
 * Hiding the Bad? An Empirical Analysis of Negative Dynamic Information Disclosure on Investment Decisions in Crowdfunding. Under Review
 * Uncovering Interorganizational Relationships in Social Proximity Measurement: A Graph Embedding Approach. Ready for Journal Submission
 * Perceived Helpfulness and Human–AI Differences in Online Psychological Counseling: Evidence from LLM Analysis and Controlled Experiments. Ready for Journal Submission
